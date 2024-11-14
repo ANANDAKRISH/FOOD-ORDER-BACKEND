@@ -45,3 +45,7 @@ in each request handler
 8. what about password updation for vendors 
 
 9. what about admin login ?
+
+10. add .gitignore file like jay's github repo or maybe like yt backend project....need to add node_modules etc to this file
+11. also checkout what other files or configs done in yt backend proje and use that here too
+12. also we got a mail from github that  Mongo uri leaked (in yt backend project we kept all those in .env file and .env was added to .gitinore , so no leakage)
